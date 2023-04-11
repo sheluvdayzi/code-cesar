@@ -1,0 +1,1 @@
+let phrase = prompt("Ecris moi ta phrase");
